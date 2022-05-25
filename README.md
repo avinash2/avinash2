@@ -1,7 +1,7 @@
 Hi 👋 My name is Avinash
 ========================
 
-Fullstack Developer
+Fullstack Developer (Architect)
 -------------------
 
 Over 17 years of professional development experience, single-handedly surpassing 70,000+ hours of code.
