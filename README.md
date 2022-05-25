@@ -7,7 +7,6 @@ Fullstack Developer
 Over 17 years of professional development experience, single-handedly surpassing 70,000+ hours of code.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [coddent@gmail.com](mailto:coddent@gmail.com)
 
 <a href="https://www.twitter.com/fullstackAvi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/fullstackAvi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
